@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="MajorityElements method 3&#10;Sum of Two">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/leetcode/SortedArraySumOfTwo.java" afterDir="false" />
+    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="SortedArraySumOfTwo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/leetcode/MergeSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/SumOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/leetcode/SumOfTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/co/rajat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortedArraySumOfTwo">
+  <component name="RunManager" selected="Application.MergeSortedArray">
     <configuration name="MajorityElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.MajorityElements" />
       <module name="dsa" />
@@ -71,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightGreatest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.RightGreatest" />
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.leetcode.MergeSortedArray" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="Application.SortedArraySumOfTwo" />
         <item itemvalue="Application.SumOfTwo" />
         <item itemvalue="Application.MajorityElements" />
         <item itemvalue="Application.StockSelling" />
-        <item itemvalue="Application.RightGreatest" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694016933898</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="SortedArraySumOfTwo">
+      <option name="closed" value="true" />
+      <created>1694072172102</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694072172102</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +252,22 @@
     <MESSAGE value="MajorityElements method 1" />
     <MESSAGE value="MajorityElements method 2" />
     <MESSAGE value="MajorityElements method 3&#10;Sum of Two" />
-    <option name="LAST_COMMIT_MESSAGE" value="MajorityElements method 3&#10;Sum of Two" />
+    <MESSAGE value="SortedArraySumOfTwo" />
+    <option name="LAST_COMMIT_MESSAGE" value="SortedArraySumOfTwo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/co/rajat/day4_class/leetcode/SortedArraySumOfTwo.java</url>
+          <line>5</line>
+          <properties class="co.rajat.day4_class.leetcode.SortedArraySumOfTwo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
