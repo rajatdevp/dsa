@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="SortedArraySumOfTwo">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/leetcode/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="MergeSortedArray" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694072172102</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="MergeSortedArray">
+      <option name="closed" value="true" />
+      <created>1694091014819</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694091014819</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +258,8 @@
     <MESSAGE value="MajorityElements method 2" />
     <MESSAGE value="MajorityElements method 3&#10;Sum of Two" />
     <MESSAGE value="SortedArraySumOfTwo" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortedArraySumOfTwo" />
+    <MESSAGE value="MergeSortedArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="MergeSortedArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
