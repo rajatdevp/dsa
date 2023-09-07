@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="MergeSortedArray" />
+    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="MergeSortedArray">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/leetcode/PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/leetcode/SumOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/leetcode/SumOfTwo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +57,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/co/rajat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSortedArray">
+  <component name="RunManager" selected="Application.PascalsTriangle">
     <configuration name="MajorityElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.MajorityElements" />
       <module name="dsa" />
@@ -80,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedArraySumOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.leetcode.SortedArraySumOfTwo" />
+    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.leetcode.PascalsTriangle" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockSelling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.StockSelling" />
+    <configuration name="SortedArraySumOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.leetcode.SortedArraySumOfTwo" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PascalsTriangle" />
         <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="Application.SortedArraySumOfTwo" />
         <item itemvalue="Application.SumOfTwo" />
         <item itemvalue="Application.MajorityElements" />
-        <item itemvalue="Application.StockSelling" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694091014819</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="MergeSortedArray">
+      <option name="closed" value="true" />
+      <created>1694091063951</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694091063951</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
