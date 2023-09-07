@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="MajorityElements method 2">
+    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="MajorityElements method 3&#10;Sum of Two">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/leetcode/SortedArraySumOfTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/MajorityElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/MajorityElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/SumOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day4_class/leetcode/SumOfTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,26 +57,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/co/rajat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfTwo">
-    <configuration name="LeftGreatest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.LeftGreatest" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="co.rajat.day4_class.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SortedArraySumOfTwo">
     <configuration name="MajorityElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.MajorityElements" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.rajat.day4_class.*" />
+          <option name="PATTERN" value="co.rajat.day4_class.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,7 +76,20 @@
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.rajat.day4_class.*" />
+          <option name="PATTERN" value="co.rajat.day4_class.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedArraySumOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.leetcode.SortedArraySumOfTwo" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.rajat.day4_class.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,7 +102,7 @@
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.rajat.day4_class.*" />
+          <option name="PATTERN" value="co.rajat.day4_class.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="SumOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.SumOfTwo" />
+      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.leetcode.SumOfTwo" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.rajat.day4_class.*" />
+          <option name="PATTERN" value="co.rajat.day4_class.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortedArraySumOfTwo" />
         <item itemvalue="Application.SumOfTwo" />
         <item itemvalue="Application.MajorityElements" />
         <item itemvalue="Application.StockSelling" />
         <item itemvalue="Application.RightGreatest" />
-        <item itemvalue="Application.LeftGreatest" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694002975249</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="MajorityElements method 3&#10;Sum of Two">
+      <option name="closed" value="true" />
+      <created>1694016933898</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694016933898</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +244,7 @@
     <MESSAGE value="StockSelling" />
     <MESSAGE value="MajorityElements method 1" />
     <MESSAGE value="MajorityElements method 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="MajorityElements method 2" />
+    <MESSAGE value="MajorityElements method 3&#10;Sum of Two" />
+    <option name="LAST_COMMIT_MESSAGE" value="MajorityElements method 3&#10;Sum of Two" />
   </component>
 </project>

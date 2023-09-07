@@ -1,4 +1,4 @@
-package co.rajat.day4_class;
+package co.rajat.day4_class.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
