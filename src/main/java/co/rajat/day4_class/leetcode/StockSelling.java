@@ -1,4 +1,4 @@
-package co.rajat.day4_class;
+package co.rajat.day4_class.leetcode;
 
 public class StockSelling {
     public static void main(String[] args){
