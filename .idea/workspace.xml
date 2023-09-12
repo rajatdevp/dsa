@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="//1920. Build Array from Permutation">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day6_class/leetcode/ContainsDuplicate.java" afterDir="false" />
+    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="217. Contains Duplicate">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day6_class/leetcode/ContainsDuplicateII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/co/rajat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContainsDuplicate">
+  <component name="RunManager" selected="Application.ContainsDuplicateII">
     <configuration name="BuildArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.rajat.day5_class.leetcode.BuildArrayFromPermutation" />
       <module name="dsa" />
@@ -72,6 +72,19 @@
     </configuration>
     <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.rajat.day6_class.leetcode.ContainsDuplicate" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.rajat.day6_class.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainsDuplicateII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.rajat.day6_class.leetcode.ContainsDuplicateII" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -109,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockSellingII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.leetcode.StockSellingII" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="co.rajat.day4_class.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContainsDuplicateII" />
         <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.BuildArrayFromPermutation" />
         <item itemvalue="Application.Intersection" />
         <item itemvalue="Application.MajorityElements" />
-        <item itemvalue="Application.StockSellingII" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,7 @@
       <workItem from="1694154027311" duration="3942000" />
       <workItem from="1694246333125" duration="2146000" />
       <workItem from="1694270943079" duration="602000" />
-      <workItem from="1694331635334" duration="3264000" />
+      <workItem from="1694331635334" duration="3981000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <option name="closed" value="true" />
@@ -298,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694250694448</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="217. Contains Duplicate">
+      <option name="closed" value="true" />
+      <created>1694436335314</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1694436335314</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,7 +327,8 @@
     <MESSAGE value="122 stock selling 2" />
     <MESSAGE value="349. Intersection of Two Arrays" />
     <MESSAGE value="//1920. Build Array from Permutation" />
-    <option name="LAST_COMMIT_MESSAGE" value="//1920. Build Array from Permutation" />
+    <MESSAGE value="217. Contains Duplicate" />
+    <option name="LAST_COMMIT_MESSAGE" value="217. Contains Duplicate" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -332,6 +341,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/co/rajat/day6_class/leetcode/ContainsDuplicate.java</url>
+          <line>8</line>
+          <properties class="co.rajat.day6_class.leetcode.ContainsDuplicate" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
