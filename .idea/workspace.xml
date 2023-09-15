@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="217. Contains Duplicate">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day6_class/leetcode/ContainsDuplicateII.java" afterDir="false" />
+    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="    //contains-duplicate-ii">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day6_class/leetcode/SummaryRanges.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/co/rajat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContainsDuplicateII">
+  <component name="RunManager" selected="Application.SummaryRanges">
     <configuration name="BuildArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.rajat.day5_class.leetcode.BuildArrayFromPermutation" />
       <module name="dsa" />
@@ -109,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.rajat.day4_class.MajorityElements" />
+    <configuration name="SummaryRanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.rajat.day6_class.leetcode.SummaryRanges" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.rajat.day4_class.*" />
+          <option name="PATTERN" value="co.rajat.day6_class.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SummaryRanges" />
         <item itemvalue="Application.ContainsDuplicateII" />
         <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.BuildArrayFromPermutation" />
         <item itemvalue="Application.Intersection" />
-        <item itemvalue="Application.MajorityElements" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,11 @@
       <workItem from="1694154027311" duration="3942000" />
       <workItem from="1694246333125" duration="2146000" />
       <workItem from="1694270943079" duration="602000" />
-      <workItem from="1694331635334" duration="3981000" />
+      <workItem from="1694331635334" duration="4747000" />
+      <workItem from="1694537593111" duration="1745000" />
+      <workItem from="1694639627485" duration="601000" />
+      <workItem from="1694676429384" duration="636000" />
+      <workItem from="1694699224967" duration="2633000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <option name="closed" value="true" />
@@ -306,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694436335314</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="    //contains-duplicate-ii">
+      <option name="closed" value="true" />
+      <created>1694509346248</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1694509346248</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +340,8 @@
     <MESSAGE value="349. Intersection of Two Arrays" />
     <MESSAGE value="//1920. Build Array from Permutation" />
     <MESSAGE value="217. Contains Duplicate" />
-    <option name="LAST_COMMIT_MESSAGE" value="217. Contains Duplicate" />
+    <MESSAGE value="    //contains-duplicate-ii" />
+    <option name="LAST_COMMIT_MESSAGE" value="    //contains-duplicate-ii" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
