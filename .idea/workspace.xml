@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="    //contains-duplicate-ii">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day6_class/leetcode/SummaryRanges.java" afterDir="false" />
+    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="//    228. Summary Ranges">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day6_class/leetcode/NumArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +148,7 @@
       <workItem from="1694537593111" duration="1745000" />
       <workItem from="1694639627485" duration="601000" />
       <workItem from="1694676429384" duration="636000" />
-      <workItem from="1694699224967" duration="2633000" />
+      <workItem from="1694699224967" duration="3556000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <option name="closed" value="true" />
@@ -318,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694509346248</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="//    228. Summary Ranges">
+      <option name="closed" value="true" />
+      <created>1694749302464</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1694749302464</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +349,8 @@
     <MESSAGE value="//1920. Build Array from Permutation" />
     <MESSAGE value="217. Contains Duplicate" />
     <MESSAGE value="    //contains-duplicate-ii" />
-    <option name="LAST_COMMIT_MESSAGE" value="    //contains-duplicate-ii" />
+    <MESSAGE value="//    228. Summary Ranges" />
+    <option name="LAST_COMMIT_MESSAGE" value="//    228. Summary Ranges" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
