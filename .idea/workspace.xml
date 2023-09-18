@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="//    228. Summary Ranges" />
+    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="//    228. Summary Ranges">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day7_class/SlidingWindowEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,8 +24,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rajatdevp&quot;
+  }
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="b1ea97ee-27f8-4112-9869-2fe3c853aac2" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b1ea97ee-27f8-4112-9869-2fe3c853aac2" />
+        <option name="url" value="https://github.com/rajatdevp/dsa.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -33,28 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/sanjay/IdeaProjects/dsa/src/main/java/co/rajat",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sanjay/IdeaProjects/dsa/src/main/java/co/rajat&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/co/rajat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SummaryRanges">
+  <component name="RunManager" selected="Application.SlidingWindowEx1">
     <configuration name="BuildArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.rajat.day5_class.leetcode.BuildArrayFromPermutation" />
       <module name="dsa" />
@@ -94,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Intersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.rajat.day5_class.leetcode.Intersection" />
+    <configuration name="SlidingWindowEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.rajat.day7_class.SlidingWindowEx1" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.rajat.day5_class.leetcode.*" />
+          <option name="PATTERN" value="co.rajat.day7_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SlidingWindowEx1" />
         <item itemvalue="Application.SummaryRanges" />
         <item itemvalue="Application.ContainsDuplicateII" />
         <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.BuildArrayFromPermutation" />
-        <item itemvalue="Application.Intersection" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +163,12 @@
       <workItem from="1694537593111" duration="1745000" />
       <workItem from="1694639627485" duration="601000" />
       <workItem from="1694676429384" duration="636000" />
-      <workItem from="1694699224967" duration="3919000" />
+      <workItem from="1694699224967" duration="4052000" />
+      <workItem from="1694751717798" duration="51000" />
+      <workItem from="1694755500084" duration="591000" />
+      <workItem from="1694768764928" duration="1168000" />
+      <workItem from="1694936381035" duration="597000" />
+      <workItem from="1695071747776" duration="872000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <option name="closed" value="true" />
@@ -332,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694751335964</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="//    228. Summary Ranges">
+      <option name="closed" value="true" />
+      <created>1694751590735</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1694751590735</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
