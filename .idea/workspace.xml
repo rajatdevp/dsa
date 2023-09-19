@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="SlidingWindowEx1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day7_class/SlidingWindowEx2.java" afterDir="false" />
+    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment=" //1876. Substrings of Size Three with Distinct Characters">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day7_class/LongestSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +168,7 @@
       <workItem from="1694755500084" duration="591000" />
       <workItem from="1694768764928" duration="1168000" />
       <workItem from="1694936381035" duration="597000" />
-      <workItem from="1695071747776" duration="3276000" />
+      <workItem from="1695071747776" duration="4230000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <option name="closed" value="true" />
@@ -370,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695072970006</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary=" //1876. Substrings of Size Three with Distinct Characters">
+      <option name="closed" value="true" />
+      <created>1695138964241</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1695138964241</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,7 +414,8 @@
     <MESSAGE value="    //contains-duplicate-ii" />
     <MESSAGE value="//    228. Summary Ranges" />
     <MESSAGE value="SlidingWindowEx1" />
-    <option name="LAST_COMMIT_MESSAGE" value="SlidingWindowEx1" />
+    <MESSAGE value=" //1876. Substrings of Size Three with Distinct Characters" />
+    <option name="LAST_COMMIT_MESSAGE" value=" //1876. Substrings of Size Three with Distinct Characters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
