@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="3. Longest Substring Without Repeating Characters">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day7_class/FindAnagramsString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/test/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7715f403-708e-44b4-b2a9-b4b6622e60b7" name="Changes" comment="438. Find All Anagrams in a String">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/rajat/day8_class/RecursionE1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +70,26 @@
       <recent name="$PROJECT_DIR$/src/main/java/co/rajat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindAnagramsString">
+  <component name="RunManager" selected="Application.RecursionE1">
     <configuration name="FindAnagramsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.rajat.day7_class.FindAnagramsString" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="co.rajat.day7_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursionE1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.rajat.day8_class.RecursionE1" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.rajat.day8_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,19 +123,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SummaryRanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.rajat.day6_class.leetcode.SummaryRanges" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="co.rajat.day6_class.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.rajat.test.Test1" />
       <module name="dsa" />
@@ -140,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursionE1" />
         <item itemvalue="Application.FindAnagramsString" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.SlidingWindowEx2" />
         <item itemvalue="Application.SlidingWindowEx1" />
-        <item itemvalue="Application.SummaryRanges" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +168,7 @@
       <workItem from="1694768764928" duration="1168000" />
       <workItem from="1694936381035" duration="597000" />
       <workItem from="1695071747776" duration="10498000" />
-      <workItem from="1695373929225" duration="1509000" />
+      <workItem from="1695373929225" duration="2518000" />
     </task>
     <task id="LOCAL-00001" summary="x">
       <option name="closed" value="true" />
@@ -388,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695154767804</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="438. Find All Anagrams in a String">
+      <option name="closed" value="true" />
+      <created>1695424896228</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1695424896228</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,7 +432,8 @@
     <MESSAGE value="SlidingWindowEx1" />
     <MESSAGE value=" //1876. Substrings of Size Three with Distinct Characters" />
     <MESSAGE value="3. Longest Substring Without Repeating Characters" />
-    <option name="LAST_COMMIT_MESSAGE" value="3. Longest Substring Without Repeating Characters" />
+    <MESSAGE value="438. Find All Anagrams in a String" />
+    <option name="LAST_COMMIT_MESSAGE" value="438. Find All Anagrams in a String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
